@@ -1,0 +1,3 @@
+/Users/ulos/CLionProjects/C-Plus-start/cmake-build-debug/CMakeFiles/C_Plus_start.dir
+/Users/ulos/CLionProjects/C-Plus-start/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ulos/CLionProjects/C-Plus-start/cmake-build-debug/CMakeFiles/rebuild_cache.dir
